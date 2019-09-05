@@ -9,6 +9,17 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+### Assignments
+
+1. Name:  
+  * *David* **Coit**
+
+2. Favorite color:
+  * My favorite color is <ins>blue</ins>.
+
+3. Link to my repository: 
+  * [https://github.com/davidcoit](https://github.com/davidcoit)
+
 
 1.Create a Heading right above this line &uarr; that says 'Assignments' 
 
